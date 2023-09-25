@@ -4,6 +4,8 @@
 
 > Put all the assets (from releases page) into the "/res" folder and compile it or just download the premade ISO (from releases page as well)
 
+> Does not work on real hardware. It gets in-game, but crashes seconds after loading the level
+
 ## Credits:
 * [KVBA](https://github.com/KVBAMusic) - Original Game with Car ([Link](https://kvbamusic.itch.io/game-with-car))
 * [drummyfish](https://codeberg.org/drummyfish/tinyphysicsengine) - Tiny Physics Engine
